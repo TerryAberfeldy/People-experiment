@@ -1,0 +1,26 @@
+
+[{
+"name": "Bill Smith",
+"address": "123 Main St.",
+"company": "Acme Engineering",
+"service": 38
+},
+{
+"name": "Alice Wright",
+"address": "1201 Yonge St.",
+"company": "Shoppers Drug Mart",
+"service": 9
+},
+{
+"name": "Jose Esperato",
+"address": "1345 Dufferin Street",
+"company": "Executive Woodwork",
+"service": 5
+},
+{
+"name": "June Hagen",
+"address": "22 Holsworthy St.",
+"company": "Steelcase Tires",
+"service": 11
+}
+]
