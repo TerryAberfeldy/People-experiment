@@ -10,7 +10,10 @@ import Foundation
 class PeopleViewModel: ObservableObject{
     
     @Published var people = [peopleModel]()
-    
+    @Published var showName = true
+    @Published var showAddress = true
+    @Published var showCompany = true
+    @Published var showYears = true
     
     init(){
         

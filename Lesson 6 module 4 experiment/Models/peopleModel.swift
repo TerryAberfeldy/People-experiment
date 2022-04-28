@@ -7,15 +7,15 @@
 
 import Foundation
 
-class peopleModel:  Identifiable, Decodable{
+class peopleModel:  Identifiable,  Decodable, {
     
+
+
     var id:UUID?
-    var name = ""
-    var address = ""
-    var company = ""
-    var service = 0
-    
-    
-    
-    
+     var name = ""
+     var address = ""
+     var company = ""
+     var service = 0
 }
+
+

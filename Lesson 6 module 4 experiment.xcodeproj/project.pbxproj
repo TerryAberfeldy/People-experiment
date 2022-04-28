@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		291C8E3E2819D27F00A1FA53 /* ToggleViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 291C8E3D2819D27F00A1FA53 /* ToggleViewModel.swift */; };
 		29A3B74F280F334800323792 /* Lesson_6_module_4_experimentApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29A3B74E280F334800323792 /* Lesson_6_module_4_experimentApp.swift */; };
 		29A3B751280F334800323792 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29A3B750280F334800323792 /* ContentView.swift */; };
 		29A3B753280F334D00323792 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29A3B752280F334D00323792 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		291C8E3D2819D27F00A1FA53 /* ToggleViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleViewModel.swift; sourceTree = "<group>"; };
 		29A3B74B280F334800323792 /* Lesson 6 module 4 experiment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lesson 6 module 4 experiment.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		29A3B74E280F334800323792 /* Lesson_6_module_4_experimentApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson_6_module_4_experimentApp.swift; sourceTree = "<group>"; };
 		29A3B750280F334800323792 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 			isa = PBXGroup;
 			children = (
 				29AF0C56281052020088A3D4 /* PeopleViewModel.swift */,
+				291C8E3D2819D27F00A1FA53 /* ToggleViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				29A3B75D280F339900323792 /* DataServices.swift in Sources */,
+				291C8E3E2819D27F00A1FA53 /* ToggleViewModel.swift in Sources */,
 				29A3B751280F334800323792 /* ContentView.swift in Sources */,
 				29A3B769280F367600323792 /* peopleModel.swift in Sources */,
 				29AF0C57281052020088A3D4 /* PeopleViewModel.swift in Sources */,
